@@ -12,7 +12,6 @@ The **Global Superstore Business Insights Project** delivers a complete analytic
 2. **Time-Series Analysis** – Monitor trends, growth, and forecast future sales.  
 3. **Sales Performance** – Compare geographic markets, product categories, and customer segments.  
 
-Developed during my **internship at Hadi E-Learning**, this project demonstrates how raw transactional data can be transformed into clear, actionable business intelligence.  
 
 ---
 
@@ -30,7 +29,7 @@ The project was built using:
 
 ## 🔍 Data Source  
 
-**Source**: Global Superstore Dataset (Sample Superstore extended version)  
+**Source**: Global Superstore Dataset 
 
 Contains transactional sales records with:  
 * Order date, ship date, shipping mode  
